@@ -5,12 +5,20 @@ An end-to-end data analytics project leveraging transactional data to uncover cr
 ---
 
 ## 📈 Power BI Interactive Dashboards
-Below are the interactive Power BI dashboard views showcasing key performance indicators (KPIs), demographics, subscription breakdowns, and category sales:
 
-### Dashboard Overview
+### 🔗 Live Interactive Report
+👉 **[View the Live Interactive Report on Power BI Service](https://app.powerbi.com/reportEmbed?reportId=1b9e64eb-aaa8-47ab-8c43-4fe0df732abd&autoAuth=true&ctid=7f3b4ac6-4c1d-40f9-8601-53cb3f0c6deb)**
+
+*(Note: Depending on your browser's security settings, you can interact with the live report directly inside the iframe below, or click the link above to view it in full screen.)*
+
+<iframe title="customer_behaviora_dashboard" width="100%" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=1b9e64eb-aaa8-47ab-8c43-4fe0df732abd&autoAuth=true&ctid=7f3b4ac6-4c1d-40f9-8601-53cb3f0c6deb" frameborder="0" allowFullScreen="true"></iframe>
+
+### 📸 Dashboard Static Views
+
+#### Dashboard Overview
 ![Power BI Dashboard Overview](PowerBI.png)
 
-### Detailed Analysis Dashboard
+#### Detailed Analysis Dashboard
 ![Customer Behavior Dashboard Details](dashboard.png)
 
 ---
