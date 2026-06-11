@@ -26,7 +26,7 @@ A retail company wanted to understand customer shopping behavior to improve sale
 ### Project Deliverables
 1. **Data Preparation & EDA:** Preprocessing, cleaning, and feature engineering using Python & Pandas.
 2. **SQL Database Integration:** Schema design and SQL analysis on PostgreSQL for 10 core business queries.
-3. **Power BI Dashboard:** Building an interactive reporting dashboard with slicers and KPI cards.
+3. **Power BI Dashboard:** Interactive reporting dashboard and KPI cards (source file: [customer_behaviora_dashboard.pbix](customer_behaviora_dashboard.pbix)).
 4. **Strategic Action Plan:** Recommendations for loyalty programs, subscription growth, and marketing focus.
 
 ---
@@ -196,4 +196,4 @@ ORDER BY total_revenue DESC;
 * **Python:** Data Cleaning, Group Imputations, Column Normalization, and Feature Engineering.
 * **Libraries:** `pandas`, `sqlalchemy`, `psycopg2-binary`.
 * **PostgreSQL Database:** Data Storage & Advanced querying.
-* **Power BI:** Interactive dashboard design, slicers, custom visualizations.
+* **Power BI:** Interactive dashboard design, slicers, and KPI cards (source file included: [customer_behaviora_dashboard.pbix](customer_behaviora_dashboard.pbix)).
